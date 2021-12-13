@@ -1,0 +1,14 @@
+C:\WORK\REPO\linqexercise\linqexercise1\bin\Debug\net6.0\linqexercise1.exe
+C:\WORK\REPO\linqexercise\linqexercise1\bin\Debug\net6.0\linqexercise1.deps.json
+C:\WORK\REPO\linqexercise\linqexercise1\bin\Debug\net6.0\linqexercise1.runtimeconfig.json
+C:\WORK\REPO\linqexercise\linqexercise1\bin\Debug\net6.0\linqexercise1.dll
+C:\WORK\REPO\linqexercise\linqexercise1\bin\Debug\net6.0\ref\linqexercise1.dll
+C:\WORK\REPO\linqexercise\linqexercise1\bin\Debug\net6.0\linqexercise1.pdb
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\linqexercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\linqexercise1.AssemblyInfoInputs.cache
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\linqexercise1.AssemblyInfo.cs
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\linqexercise1.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\linqexercise1.dll
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\ref\linqexercise1.dll
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\linqexercise1.pdb
+C:\WORK\REPO\linqexercise\linqexercise1\obj\Debug\net6.0\linqexercise1.genruntimeconfig.cache

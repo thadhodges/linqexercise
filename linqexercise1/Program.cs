@@ -1,4 +1,4 @@
-﻿var nameList = new List<string>() { "frogger", "pac-man", "galactica", "flapdap", "shopfunlogname"};
+﻿var nameList = new List<string>() { "123", "123456", "12345678", "12", "12345678910", "12345"};
 
 var sortByLength = nameList.OrderBy(x => x.Length);
 Console.WriteLine("list by ascending order");

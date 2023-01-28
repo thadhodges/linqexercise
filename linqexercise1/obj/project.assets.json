@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORK\\REPO\\linqexercise\\linqexercise1\\linqexercise1.csproj",
+      "projectUniqueName": "C:\\Users\\thadi\\OneDrive\\Documents\\GitHub\\linqexercise\\linqexercise1\\linqexercise1.csproj",
       "projectName": "linqexercise1",
-      "projectPath": "C:\\WORK\\REPO\\linqexercise\\linqexercise1\\linqexercise1.csproj",
+      "projectPath": "C:\\Users\\thadi\\OneDrive\\Documents\\GitHub\\linqexercise\\linqexercise1\\linqexercise1.csproj",
       "packagesPath": "C:\\Users\\thadi\\.nuget\\packages\\",
-      "outputPath": "C:\\WORK\\REPO\\linqexercise\\linqexercise1\\obj\\",
+      "outputPath": "C:\\Users\\thadi\\OneDrive\\Documents\\GitHub\\linqexercise\\linqexercise1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

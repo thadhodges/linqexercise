@@ -21,10 +21,14 @@
         System.Console.WriteLine(   );
 
         //additional code testing
-        var nameListArrowStrength = new List<int> {1,2,3,4,5,6,7,8,};
+        var nameListArrowStrength = new List<int> {11,21,31,41,51,61,71,81,91};
         int number5 = nameListArrowStrength[4];
+        Random random = new Random();
 
-        System.Console.WriteLine(number5);
+
+        System.Console.WriteLine($"Random selection from list: {nameListArrowStrength[random.Next(0, nameListArrowStrength.Count)]}");
+
+        //System.Console.WriteLine(number5);
     }
 
 }

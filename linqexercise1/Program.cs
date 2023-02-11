@@ -1,4 +1,7 @@
-﻿internal class Program
+﻿using static System.Console;
+
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -26,9 +29,12 @@
         Random random = new Random();
 
 
-        System.Console.WriteLine($"Random selection from list: {nameListArrowStrength[random.Next(0, nameListArrowStrength.Count)]}");
+        Console.WriteLine($"Random selection from list: {nameListArrowStrength[random.Next(0, nameListArrowStrength.Count)]}");
 
         //System.Console.WriteLine(number5);
+        WriteLine("Press any key to exit...");
+        ReadKey();
+        
     }
 
 }

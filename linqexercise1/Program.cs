@@ -3,6 +3,12 @@
 
 
 
-System.Console.WriteLine("hello");
-int number = 45;
-System.Console.WriteLine(number);
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        WriteLine("hello");
+        var number = 45;
+        WriteLine(number);
+    }
+}
